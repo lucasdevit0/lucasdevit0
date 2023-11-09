@@ -1,4 +1,4 @@
-<img src=lucasvit0_banner.png>
+<img src=banner.png>
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
