@@ -1,22 +1,27 @@
-<img src=banner.png>
+# Hey, I'm Lucas 👋
 
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+I'm Lucas de Vito, a full-stack developer based in São Paulo. I build MVPs, SaaS products, and web apps for founders, from the first version through the features that come next.
 
-<p align="left">
-<strong>I am a software engineer</strong> with a background in mechanical engineering from the University of Colorado Boulder. I <strong>currently help</strong> Brazilian machine manufacturers in the automotive industry to <strong>optimize processes through computer vision.</strong>
-</p>
+## What I build
 
-<p align="left"> 
-I am <strong> currently developing computer vision and machine learning skills</strong> through personal projects and online courses. 
-</p>
+- Full-stack web apps with authentication, payments, dashboards, and the workflows behind them
+- SaaS products and MVPs that turn an idea into something people can use
+- AI integrations and automations that make a product more useful or cut down on manual work
 
-### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/devitolucas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devitolucas/" height="30" width="40" /></a>
-<a href="https://medium.com/@lucas.casadevito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@lucas.casadevito" height="30" width="40" /></a>
+My main stack is **Next.js, React, TypeScript, Supabase, Stripe, and Vercel**.
 
-### Skills  
+## Ship & Scale
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">   </a> </p>
+I'm building [Ship & Scale](https://shipandscale.dev), bringing together a SaaS starter kit and development services for founders.
+
+Use the kit as a starting point for your own product, or work with me to build your MVP, add features, and get it ready to launch.
+
+## Building and sharing
+
+On [YouTube](https://www.youtube.com/@buildswithlucas), I share practical content about building web apps, working with AI tools, and taking SaaS ideas from concept to launch.
+
+## Let's connect
+
+Have a product in mind or need help with something you're building? Reach out on [LinkedIn](https://www.linkedin.com/in/devitolucas/) or visit [Ship & Scale](https://shipandscale.dev).
+
+[LinkedIn](https://www.linkedin.com/in/devitolucas/) · [YouTube](https://www.youtube.com/@buildswithlucas) · [Ship & Scale](https://shipandscale.dev)
